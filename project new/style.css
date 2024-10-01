@@ -1,0 +1,31 @@
+#body
+{
+    background: linear-gradient(rgba(255,255,255,0.2), rgba(255,255,255,0.2)) ,url("large-industrial-plant-with-sunset-background_951962-1336.avif");
+    background-size: cover;
+}
+#search{
+    position: absolute;
+    bottom: 13%;
+    left: 10%;
+}
+#navbar
+{
+    background-color: grey;
+    z-index: 1;
+}
+#button
+{
+    margin-left: 10px;
+    border-radius: 18px;
+    color: black;
+    border: white 1px solid transparent;
+}
+#shiva
+{
+    border-radius: 60px;
+}
+#bod
+{
+    background: linear-gradient(rgba(255,255,255,0.2), rgba(255,255,255,0.2)) ,url("large-industrial-plant-with-sunset-background_951962-1336.avif");
+    background-size: contain;
+}
